@@ -5,8 +5,8 @@ import time
 import os
 
 #this data for login to outlook0
-password = "Ha@2000780"
-email = "hassan20-00780@student.eelu.edu.eg"
+password = "your password"
+email = "your email"
 
 #outlook url
 url = "https://outlook.office365.com/mail/"
